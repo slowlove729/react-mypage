@@ -13,7 +13,7 @@ function App() {
               width="30"
               height="30"
               className="d-inline-block align-top"
-            />{' '}
+            />
             Hong's DEV Blog
           </Navbar.Brand>
         </Navbar>
