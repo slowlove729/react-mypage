@@ -2,6 +2,44 @@
   text-align: center;
 }
 
+nav{
+  margin-bottom: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+}
+
+nav a :hover{
+  text-decoration: none;
+  color: white;
+}
+
+nav span :hover{
+  text-decoration: none;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: #222;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #222;
+}
+
+.card {
+  padding: 0;
+  margin: 8px;
+}
+
+.container{
+  margin-top: 40px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
