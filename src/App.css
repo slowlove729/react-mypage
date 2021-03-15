@@ -31,6 +31,14 @@ a:hover {
   color: #222;
 }
 
+.photo .card-header{
+  background-color: #007bff;
+}
+
+.photo a{
+  color: #fff;
+}
+
 .card {
   padding: 0;
   margin: 8px;
